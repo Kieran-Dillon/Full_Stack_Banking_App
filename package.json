@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node index.js"
-    "build": "build",
+    "start": "node index.js",
+    "build": "build"
   },
   "license": "MIT",
   "dependencies": {
